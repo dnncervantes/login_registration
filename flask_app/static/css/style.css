@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.register {
+    background-color: #32393F;
+    padding: 30px;
+    color: white;
+}
+.reg {
+    color: #0779FA;
+}
+.login {
+    background-color: #32393F;
+    padding: 30px;
+    color: white;
+}
+.log {
+    color: green;
+}
+.get-flashed {
+    background-color: #F6D6D8;
+    border: 2px solid black;
+}
+.btn-register {
+    background-color: blue;
+    color: white;
+    box-shadow: 3px 3px black;
+    margin-top: 20px;
+    padding:  0px 5px 0px 5px;
+} 
+.btn-login {
+    background-color: green;
+    color: white;
+    box-shadow: 3px 3px black;
+    margin-top: 20px;
+    padding: 0px 5px 0px 5px;
+}
+.alert {
+    background-color: #F6D7D9;
+    color: black;
+}
